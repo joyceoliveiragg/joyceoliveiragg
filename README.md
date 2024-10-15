@@ -1,8 +1,8 @@
 ### 👋 Olá, sou Joyce!
 
-👩🏻‍🎓 Estudante de Ciência da Computação na UniAmerica Centro  Universitario [EAD]
-🎨 Costumo ser meio artista nas horas vagas
-💭 Atualmente aprendendo sobre desenvolvimento front e ux design
+👩🏻‍🎓 Estudante de Ciência da Computação na UniAmerica Centro  Universitario [EAD]<br/>
+🎨 Costumo ser meio artista nas horas vagas<br/>
+💭 Atualmente aprendendo sobre desenvolvimento front e ux design<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joyce-galdino-125574201/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)]([https://pinterest.com/https://br.pinterest.com/joliveira2086/](https://pin.it/1R86LNiej)) 
