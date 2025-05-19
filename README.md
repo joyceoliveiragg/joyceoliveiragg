@@ -2,7 +2,7 @@
 
 👩🏻‍🎓 Estudante de Ciência da Computação na UniAmerica Centro  Universitario [EAD]<br/>
 🎨 Costumo ser meio artista nas horas vagas<br/>
-💭 Atualmente aprendendo sobre desenvolvimento front e ux design<br/>
+💭 Atualmente aprendendo Java<br/>
 
 
 ## 💻 Tech Stack:
